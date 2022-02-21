@@ -1,22 +1,13 @@
-Welcome to Lumache's documentation!
-===================================
+This is the CCU Documentation!
+==============================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**CCU** is a small coding language made in python, and it has a few commands.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Installation
+------------
 
-.. note::
+**Running Online**
 
-   This project is under active development.
+.. note:: This is the slowest, but it supports ``\033`` ANSI escape codes
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+[link text itself](http://www.reddit.com)

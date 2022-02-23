@@ -5,7 +5,7 @@ This is the CCU Documentation!
 
 The source code is available on github (https://github.com/aanginer/ccu) and replit (https://replit.com/@aanginer/CCU-latest-version#main.py)
 
-Bultin reference :doc:`builtins`
+Bultin reference :doc:`/ref/reference`
 
 Installation
 ------------

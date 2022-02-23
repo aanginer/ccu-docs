@@ -36,13 +36,12 @@ Installation
 3. Run ``CommandConsoleUltimate.py`` in VScode
 
 .. toctree::
-    :maxdepth: 6
+    :maxdepth: 5
     :numbered:
     :hidden:
     :caption: Basics
     /basic/print
     /basic/var
-    /basic/list
     /basic/if
     /basic/ecmd
     /basic/style

@@ -25,15 +25,48 @@ Installation
 
 1. Go to https://aboutme.aanginer.repl.co
 2. Scroll down until you see ``CCU``
+3. Click CCU as app
 
+**Running in VScode**
+
+.. note:: This is the best, it's fast but also supports ``\033`` ANSI escape codes
+
+1. Go to https://github.com/aanginer/ccu.
+2. Download and extract the zip.
+3. Run ``CommandConsoleUltimate.py`` in VScode
+
+.. toctree::
+    :maxdepth: 6
+    :numbered:
+    :hidden:
+    :caption: Basics
+    /basic/print
+    /basic/var
+    /basic/list
+    /basic/if
+    /basic/ecmd
+    /basic/style
+    
+.. toctree::
+    :maxdepth: 3
+    :numbered:
+    :hidden:
+    :caption: OS Module
+    /os/builtins
+    /os/func
+    /os/file
 
 .. toctree::
     :maxdepth: 2
     :numbered:
     :hidden:
-    :caption: Tutorials
+    :caption: Other
+    /other/styling
+    /other/display
 
-    /tutorials/first-steps
-    /tutorials/dpg-structure
-    /tutorials/item-usage
-    /tutorials/tips-resources
+.. toctree::
+    :maxdepth: 1
+    :numbered:
+    :hidden:
+    :caption: Reference
+    /ref/reference

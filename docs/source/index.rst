@@ -40,11 +40,12 @@ Installation
     :numbered:
     :hidden:
     :caption: Basics
-    /basic/print
-    /basic/var
-    /basic/if
-    /basic/ecmd
-    /basic/style
+
+    /basics/print
+    /basics/var
+    /basics/if
+    /basics/ecmd
+    /basics/style
     
 .. toctree::
     :maxdepth: 3

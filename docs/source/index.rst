@@ -34,39 +34,3 @@ Installation
 1. Go to https://github.com/aanginer/ccu.
 2. Download and extract the zip.
 3. Run ``CommandConsoleUltimate.py`` in VScode
-
-.. toctree::
-    :maxdepth: 5
-    :numbered:
-    :hidden:
-    :caption: Basics
-
-    /basics/print
-    /basics/var
-    /basics/if
-    /basics/ecmd
-    /basics/style
-    
-.. toctree::
-    :maxdepth: 3
-    :numbered:
-    :hidden:
-    :caption: OS Module
-    /os/builtins
-    /os/func
-    /os/file
-
-.. toctree::
-    :maxdepth: 2
-    :numbered:
-    :hidden:
-    :caption: Other
-    /other/styling
-    /other/display
-
-.. toctree::
-    :maxdepth: 1
-    :numbered:
-    :hidden:
-    :caption: Reference
-    /ref/reference
